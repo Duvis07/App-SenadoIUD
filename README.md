@@ -44,7 +44,6 @@ Es por ello que se presenta un arquitectura por Capas para el Desarrollo del sof
 -Security:
 -DTO:
 
+Carpeta de recursos:https://drive.google.com/drive/u/3/folders/1tTxLSmwyZVXPdhyE8dsCr-lbcaoH6ElY
 
-
-Autores: Daniel Felipe Marín, Duvan Botero Rivillas, Juan Andrés Arias, Jorge Nicolás Abril
-# App-SenadoIUD
+Video de la aplicación funcionando: https://drive.google.com/drive/u/3/folders/1tTxLSmwyZVXPdhyE8dsCr-lbcaoH6ElY
